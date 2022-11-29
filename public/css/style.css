@@ -8,16 +8,30 @@ section{
 }
 h2{
   border: black solid 1px;
-  font-size: 300px;
+width: 300px;
   background-color: yellow;
 }
 
-section h2:nth-child(2){
-  margin: 50px;
+section:first-child h2:nth-child(3){
+margin: 50px;
 }
+
+section:first-child h2:nth-child(5){
+  margin-left: 20%;
+}
+
+
+section:first-child h2:nth-child(7){
+  margin:auto;
+}
+
+
 /* fin exo margin */
 
 /* exo padding */
+
+
+
 /* fin exo padding */
 
 /* exo display */
