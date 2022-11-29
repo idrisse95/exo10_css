@@ -31,6 +31,16 @@ section:first-child h2:nth-child(7){
 /* exo padding */
 
 
+section:nth-child(2) h2:nth-child(3){
+  padding: 50px;
+}
+
+section:nth-child(2) h2:nth-child(5){
+  padding-left: 20%;
+}
+
+
+
 
 /* fin exo padding */
 
