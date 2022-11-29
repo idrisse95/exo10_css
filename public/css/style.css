@@ -3,6 +3,18 @@ body {
 }
 
 /* Exo margin */
+section{
+  background-color: #4da6ff;
+}
+h2{
+  border: black solid 1px;
+  font-size: 300px;
+  background-color: yellow;
+}
+
+section h2:nth-child(2){
+  margin: 50px;
+}
 /* fin exo margin */
 
 /* exo padding */
